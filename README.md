@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/saman-khalife/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/SamanKhalife" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://twitter.com/Saman_kh4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/saman-khalife/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/Saman_kh4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
  <a href="https://stackoverflow.com/users/16749263/saman-kh" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="https://www.instagram.com/saman.kh4/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
