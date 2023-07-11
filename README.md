@@ -9,7 +9,7 @@
 ## biography
 
 <b>
-&nbsp;&nbsp;&nbsp;&nbsp; My name is Saman Khalife. 👋 I am a Junior SRE, Cloud Manager, and Network Manager. 🧑‍💻 I am currently seeking a team to collaborate with. ☕ I thoroughly enjoy utilizing my skills to contribute to fascinating technological advancements and transforming ideas 💡 into reality. 📖 At 19 years old, 👦 I am currently pursuing my studies.
+&nbsp;&nbsp;&nbsp;&nbsp; My name is Saman Khalife.👋 I am a Junior SRE, Cloud Manager, and Network Manager. 🧑‍💻 I am currently seeking a team to collaborate with. ☕ I thoroughly enjoy utilizing my skills to contribute to fascinating technological advancements and transforming ideas 💡 into reality. 📖 At 20 years old, 👦 I am currently pursuing my studies.
 </b> 
 
 
@@ -17,7 +17,21 @@
 # My Current Tech Stack
 <p align="center">
   <a>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" title="Grafana">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="48" title="Prometheus">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48"  title="C#">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" title="VisualStudio">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">         <img src="" width="48" title="">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" title="Grafana">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="48" title="Prometheus">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="48" title="Cloudflare">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48"  title="C#">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" title="VisualStudio">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">         
+   <img src="" width="48" title="">
  </a>
 </p>
 
@@ -26,7 +40,13 @@
 ## Currently Learning Advanced Of
 <p align="center">
   <a>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="48" title="Jenkins">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" width="48" title="ansible">
+   
   </a>
 </p>
 
@@ -35,7 +55,10 @@
 ## Plan To Learn
 <p align="center">
   <a> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="48" title="Perl">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="48" title="Perl">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
   </a>
 </p>
 
