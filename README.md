@@ -17,7 +17,8 @@
 # My Current Tech Stack
 <p align="center">
   <a>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"> 
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="48" title="Nginx"> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" width="48" title="Grafana">    
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" width="48" title="Prometheus">    
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">    
@@ -28,7 +29,8 @@
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">    
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48"  title="C#">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" title="VisualStudio">   
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> 
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Vim">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">         
    <img src="" width="48" title="">
