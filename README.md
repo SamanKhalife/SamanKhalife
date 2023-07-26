@@ -95,3 +95,5 @@ $$(___.'     '.___)                                    $$
 
 ```
 </h4>
+
+After all I think GitHub contribution graph only shows daily commitment of each person not knowledge of them.
