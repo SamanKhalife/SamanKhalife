@@ -52,6 +52,21 @@
   </a>
 </p>
 
+<h4 align="center">
+
+```
+   _____                               _  ___           _ _  __     
+  / ____|                             | |/ / |         | (_)/ _|    
+ | (___   __ _ _ __ ___   __ _ _ __   | ' /| |__   __ _| |_| |_ ___ 
+  \___ \ / _` | '_ ` _ \ / _` | '_ \  |  < | '_ \ / _` | | |  _/ _ \
+  ____) | (_| | | | | | | (_| | | | | | . \| | | | (_| | | | ||  __/
+ |_____/ \__,_|_| |_| |_|\__,_|_| |_| |_|\_\_| |_|\__,_|_|_|_| \___|
+
+```
+
+</h4>
+
+
 
 
 ## Plan To Learn
@@ -71,6 +86,9 @@
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true" />
     </a>
 </div>
+
+
+
 
 <h4 align="center">
 
