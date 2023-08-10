@@ -52,6 +52,20 @@
   </a>
 </p>
 
+
+
+
+## Plan To Learn
+<p align="center">
+  <a> 
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="48" title="Perl">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+  </a>
+</p>
+
+
 <h4 align="center">
 
 ```
@@ -68,16 +82,6 @@
 
 
 
-
-## Plan To Learn
-<p align="center">
-  <a> 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">  
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="48" title="Perl">   
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
-  </a>
-</p>
 
 ## Github Status
 
