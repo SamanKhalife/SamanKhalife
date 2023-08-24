@@ -24,10 +24,10 @@
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">    
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="48" title="Cloudflare">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">  
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">  
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">    
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48"  title="C#">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="48"  title="C++">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="48" title="VisualStudio">   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Vim">
@@ -39,29 +39,28 @@
 
 
 
-## Currently Learning Advanced Of
+## Currently Learning or Plan To Learn
 <p align="center">
   <a>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">    
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang">   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="48" title="Jenkins">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang">   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" width="48" title="ansible">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenStack-Dark.svg" width="48" title="OpenStack">
    
   </a>
 </p>
 
 
-
-
-## Plan To Learn
 <p align="center">
   <a> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48" title="Redis">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="48" title="Perl">   
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">  
   </a>
 </p>
 
