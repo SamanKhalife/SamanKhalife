@@ -30,7 +30,8 @@
    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" title="Git">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">    
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="48"  title="C++">  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"  title="Python">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang"> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode"> 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Vim">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
@@ -44,8 +45,7 @@
   <a>   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="48" title="Jenkins">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang">   
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" width="48" title="ansible">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenStack-Dark.svg" width="48" title="OpenStack">
    <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="48" title="HTTP">
