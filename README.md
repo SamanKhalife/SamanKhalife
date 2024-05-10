@@ -17,7 +17,7 @@
 
 
 
-# My Current Tech Stack or Plan To Learn
+# My Current Tech Stack
 <p align="center">
   <a>
    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="48" title="AWS">
@@ -39,6 +39,7 @@
    <img src="" width="48" title="">
  </a>
 </p>
+
 
 <!-- https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg -->
 <!--    <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" title="kafka"> -->
@@ -65,6 +66,13 @@
 </p>
 
 <h4 align="center">
+
+
+
+# In learning process
+
+* more ceph and rook
+* more openstack
 
 ```
 Software is like sex: it's better when it's free.😜😜
