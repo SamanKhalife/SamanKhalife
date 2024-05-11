@@ -12,7 +12,7 @@
 ## Biography
 
 <b>
-&nbsp;&nbsp;&nbsp;&nbsp; My name is Saman Khalife.👋 I am a Junior SRE, and Cloud Enginer. 🧑‍💻☕ I thoroughly enjoy utilizing my skills to contribute to fascinating technological advancements and transforming ideas into reality. 📖 At 21 years old, I am currently pursuing my studies.
+&nbsp;&nbsp;&nbsp;&nbsp; My name is Saman Khalife.👋 I'm SRE, and Cloud Enginer. 🧑‍💻☕ I thoroughly enjoy utilizing my skills to contribute to fascinating technological advancements and transforming ideas into reality ( Mostly for infrastructures😂😂 ). 📖 At 21 years old, I am currently pursuing my studies.
 </b> 
 
 
