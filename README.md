@@ -75,7 +75,7 @@
 * more openstack
 
 ```
-Software is like sex: it's better when it's free.😜😜
+I'm not Albert Einstein, just a silly writing code 😜😜 (with same perspective for ......)
 ```
 
 </h4>
