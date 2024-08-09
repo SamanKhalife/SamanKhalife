@@ -1,10 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hey! How is your day.</h1>
 
 <b>
-&nbsp;&nbsp;&nbsp;&nbsp; My name is Saman Khalife.👋 I'm SRE, and Cloud Enginer. 🧑‍💻☕ I thoroughly enjoy utilizing my skills to contribute to fascinating technological advancements and transforming ideas into reality ( Mostly for infrastructures😂😂 ). 📖 At 21 years old, I am currently pursuing my studies.
+&nbsp;&nbsp;&nbsp;&nbsp;I thoroughly enjoy leveraging my skills to contribute to exciting technological advancements and turn ideas into reality. At 21 years old, I am currently pursuing my studies 📖 and exploring open source projects along the way.
 </b> 
 
-# My Current Tech Stack
+# Current Tech Stack
 <p align="center">
   <a>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
@@ -54,18 +54,13 @@
 
 <h4 align="center">
 
-# In learning process
+### In learning process
 
-* more ceph and rook
-* more openstack
-
-```
-I'm not Albert Einstein, just a silly writing code 😜😜 (with same perspective for ......)
-```
+* more Openstack, Rook, Ceph
+* deep in eBPF, XDP
 
 </h4>
 
-## Github Status
 
 <div align="center">
     <a href="https://github.com/SamanKhalife" title="Go to Source">
