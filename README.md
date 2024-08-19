@@ -59,9 +59,10 @@
 * more Openstack, Rook, Ceph
 * deep in eBPF, XDP
 * Sometimes Coding for fun 😜 
-</h4>
+<!--</h4>
 <div align="center">
     <a href="https://github.com/SamanKhalife" title="Go to Source">
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true" />
     </a>
 </div>
+-->
