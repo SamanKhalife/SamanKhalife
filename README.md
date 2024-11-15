@@ -1,10 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hey!</h1>
 
 <b>
-&nbsp;&nbsp;&nbsp;&nbsp;Just Having Fun 
+&nbsp;&nbsp;&nbsp;&nbsp;Just Having Fun ☁️
 
-Clouds and ISP Enjoyer
+* Cloud and ISP Enthusiast
+* Open to Exciting Projects and Offers
 </b> 
+
+## Main Focus 
+* Exploring BGP and OSPF
+* Deep in eBPF, XDP
+* Exploring OpenStack and Ceph
 
 # Current Tech Stack
 <p align="center">
@@ -49,10 +55,7 @@ Clouds and ISP Enjoyer
 
 <h4 align="center">
 
-## Learning
-* Exploring BGP and OSPF
-* Deep in eBPF, XDP
-* Exploring OpenStack and Ceph
+
 
 <!--</h4>
 <div align="center">
