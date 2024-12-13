@@ -52,7 +52,7 @@
 
 ## Focus 
 * BGP and OSPF
-* OpenStack and Ceph
+* Ceph
 * eBPF, XDP
 
 
