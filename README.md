@@ -1,41 +1,33 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Hey!</h1>
 
-<b>
-&nbsp;&nbsp;&nbsp;&nbsp;Chill 
-
-
-</b> 
-
-
-# Stack
+# Current Stack
 <p align="center">
   <a>
-   
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="48" title="Kubernetes">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="48" title="Nginx">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" title="Kafka">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="48" title="RabbitMQ">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" width="48" title="Ansible">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" width="48" title="Terraform">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="48" title="Kafka">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="48" title="RabbitMQ">
    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/elasticsearch-auto.svg" width="48" title="Elasticsearch">
-   <img src="" width="48" title="">
- </a>
-</p>
-
-<p align="center">
-  <a>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenStack-Dark.svg" width="48" title="OpenStack">
    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/proxmox-auto.svg" width="48" title="Proxmox">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48" title="C">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="GoLang">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48"  title="Python">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="bash">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48" title="Redis">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+ </a>
+</p>
+
+<p align="center">
+  <a>
+
 <!--
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="bash">
+
    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/helm-auto.svg" width="48" title="Helm">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="48" title="Cloudflare">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">
@@ -50,16 +42,14 @@
 
 <h4 align="center">
 
-## Focus 
-* BGP and OSPF
-* Ceph
-* eBPF, XDP
+## Focus on  
+* Networking and BGP
+* eBPF, XDP (Observability tools and codes)
 
 
-<!--</h4>
 <div align="center">
     <a href="https://github.com/SamanKhalife" title="Go to Source">
       <img width=400 src="https://github-readme-stats.vercel.app/api?username=SamanKhalife&show_icons=true&theme=dark&hide_border=true" />
     </a>
 </div>
--->
+
